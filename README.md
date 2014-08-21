@@ -1,4 +1,4 @@
 notest
 ======
 
-[ ![Codeship Status for aleivag/notest](https://www.codeship.io/projects/4af72200-0910-0132-5942-428e910d5719/status)](https://www.codeship.io/projects/31443)
+[ ![Codeship Status for aleivag/notest](https://www.codeship.io/projects/d2de7160-0b8d-0132-9507-2a92b90dcbd5/status)](https://www.codeship.io/projects/32018)
